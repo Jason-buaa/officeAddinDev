@@ -16,3 +16,8 @@ Error: connect ETIMEDOUT 20.205.243.166:443
 Running npm install for you to install the required dependencies. If this fails, try running the command yourself.
 
 不适用npm命令，而是用 cnpm install来替代。
+
+
+## 给GIT设置proxy
+
+git config --global http.proxy socks5://127.0.0.1:1080
