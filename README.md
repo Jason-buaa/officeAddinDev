@@ -21,3 +21,8 @@ Running npm install for you to install the required dependencies. If this fails,
 ## 给GIT设置proxy
 
 git config --global http.proxy socks5://127.0.0.1:1080
+
+## 创建表示例
+代码解释详见：
+
+https://learn.microsoft.com/zh-cn/office/dev/add-ins/tutorials/excel-tutorial
