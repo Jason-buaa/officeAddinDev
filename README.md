@@ -22,7 +22,11 @@ Running npm install for you to install the required dependencies. If this fails,
 
 git config --global http.proxy socks5://127.0.0.1:1080
 
-## 创建表示例
+## 入门示例
 代码解释详见：
 
-https://learn.microsoft.com/zh-cn/office/dev/add-ins/tutorials/excel-tutorial
+[教程：创建 Excel 加载项](https://learn.microsoft.com/zh-cn/office/dev/add-ins/tutorials/excel-tutorial)。
+
+## Excel JavaScript 对象模型示例
+
+文档详见：[Excel 加载项中的 Excel JavaScript 对象模型](https://learn.microsoft.com/zh-cn/office/dev/add-ins/excel/excel-add-ins-core-concepts)。
